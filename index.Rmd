@@ -6,3 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
+# Introduction
+
+A short book about the 3 dogs I've had in my life.
