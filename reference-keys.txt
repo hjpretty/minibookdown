@@ -2,5 +2,6 @@ create-your-open-textbook
 tinker
 tinker-was-an-irish-setter.
 sophie
+sophie-was-a-black-labrador-retriever.
 dewey
 dewey-is-an-english-setter.
