@@ -1,5 +1,6 @@
 create-your-open-textbook
 tinker
+tinker-was-an-irish-setter.
 sophie
 dewey
 dewey-is-an-english-setter.
